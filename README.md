@@ -68,11 +68,15 @@ I combine strong coding expertise with operational skills to **"shift security l
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=radical" alt="Burraq's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burraq-e-Mohammad&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=radical" alt="Burraq's GitHub Streak" />
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Burraq-e-Mohammad&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
