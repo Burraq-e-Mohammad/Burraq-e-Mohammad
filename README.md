@@ -61,22 +61,52 @@ I combine strong coding expertise with operational skills to **"shift security l
 
 ### 📜 Certifications
 
-* **IBM DevOps and Software Engineering Professional Certificate** (IBM) 
-* **Getting Started with DevOps on AWS** (AWS) 
-* **Agile Project Management** (Google) 
-* **Introduction to FinOps** (FinOps Foundation) 
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=radical" alt="Burraq's GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=flat&logo=ibm&logoColor=white" />
+  <br>
+  • <b>IBM DevOps and Software Engineering Professional Certificate</b> (Dec 2025)
 </p>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Burraq-e-Mohammad&theme=radical&no-frame=true&margin-w=15" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <br>
+  • <b>AWS Cloud Practitioner Essentials</b> (In Progress)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <br>
+  • <b>Getting Started with DevOps on AWS</b> (July 2025)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Generative_AI-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <br>
+  • <b>Introduction to Generative AI - Art of the Possible</b> (July 2025)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=flat&logo=google&logoColor=white" />
+  <br>
+  • <b>Google Agile Project Management</b> (June 2025)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google-Front--End_Bootcamp-4285F4?style=flat&logo=google&logoColor=white" />
+  <br>
+  • <b>Google Developer Students Club Bootcamp</b> (April 2024)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=flat&logo=linux-foundation&logoColor=white" />
+  <br>
+  • <b>Introduction to FinOps</b> (FinOps Foundation - Dec 2025)
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-F3C757?style=flat&logo=coursera&logoColor=white" />
+  <br>
+  • <b>AI For Everyone</b> (DeepLearning.AI - July 2025)
 </p>
 
 ---
