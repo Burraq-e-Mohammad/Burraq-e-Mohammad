@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated **final-year Software Engineering student** at Iqra University, Islamabad. I have successfully transitioned from Full Stack Web Development into a **DevOps and DevSecOps Engineer** role. 
+I am a motivated **Software Engineering Graduate** from Iqra University, Islamabad. I have successfully transitioned from Full Stack Web Development into a **DevOps and DevSecOps Engineer** role. 
 
 I combine strong coding expertise with operational skills to **"shift security left"** and enable faster, scalable software delivery. My focus is on building secure CI/CD pipelines, containerization, and Infrastructure as Code (IaC).
 
