@@ -26,7 +26,7 @@ Motivated Software Engineering graduate with expertise in developing full-stack 
 
 **DevOps & Security**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,husky,githubactions,sonarqube,owaspzap,jake,snyk" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws" />
 </p>
 <p>
   <b>CI/CD & Automation</b> Docker, GitHub Actions, Husky <br>
