@@ -24,24 +24,23 @@ Motivated Software Engineering graduate with expertise in developing full-stack 
 
 ### 🛠️ Technical Stack
 
-**DevOps, Cloud & Security**
+**DevOps & Security**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift,githubactions,jenkins,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,husky,githubactions,sonarqube,owaspzap,jake,snyk" />
 </p>
 <p>
-  <b>Tools:</b> Docker, Kubernetes, OpenShift, GitHub Actions, Jenkins, Husky <br>
-  <b>Security (DevSecOps):</b> SonarQube, OWASP ZAP, Snyk <br>
-  <b>Observability:</b> Prometheus, Grafana, Mezmo, IBM Instana 
+  <b>CI/CD & Automation</b> Docker, GitHub Actions, Husky <br>
+  <b>Application Security (DevSecOps):</b> SonarQube, OWASP ZAP, Jake, Snyk <br>
 </p>
 
 **Full Stack Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,flask,mongodb,postgres,tailwind,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,flask,mongodb,django,postgres,tailwind,bash" />
 </p>
 <p>
   <b>Languages:</b> Python, JavaScript, TypeScript, Bash <br>
   <b>Frameworks:</b> React.js, Express.js, Flask, Tailwind CSS <br>
-  <b>Databases:</b> PostgreSQL, MongoDB, Prisma ORM 
+  <b>Databases:</b> PostgreSQL, MongoDB
 </p>
 
 ---
