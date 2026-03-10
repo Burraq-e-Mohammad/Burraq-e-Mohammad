@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
-<h3 align="center">🚀 Aspiring DevSecOps Engineer | Full Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burraq-e-mohammad">
@@ -14,13 +14,11 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated **Software Engineering Graduate** from Iqra University, Islamabad. I have successfully transitioned from Full Stack Web Development into a **DevOps and DevSecOps Engineer** role. 
-
-I combine strong coding expertise with operational skills to **"shift security left"** and enable faster, scalable software delivery. My focus is on building secure CI/CD pipelines, containerization, and Infrastructure as Code (IaC).
+Motivated Software Engineering graduate with expertise in developing full-stack applications, integrating DevOps and DevSecOps workflows, and scaling solutions on AWS. Committed to shift-left security and modern CI/CD practices to deliver fast, secure, and reliable software across the entire development lifecycle. Ready to bring strong technical foundations and a security-first mindset to a dynamic engineering team.
 
 - 🔭 I’m currently working on **DevSecOps automation and Microservices orchestration**.
 - 🏆 **Hackathon Winner:** Secured **1st Position** in Pakathon VieroMind 2025 (24-hour coding competition).
-- 🎓 **CGPA:** 3.7.
+- 🎓 **CGPA:** 3.73.
 
 ---
 
