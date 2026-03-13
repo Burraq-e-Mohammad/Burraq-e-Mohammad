@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Motivated Software Engineering graduate with expertise in developing full-stack applications, integrating DevOps and DevSecOps workflows, and scaling solutions on AWS. Committed to shift-left security and modern CI/CD practices to deliver fast, secure, and reliable software across the entire development lifecycle. Ready to bring strong technical foundations and a security-first mindset to a dynamic engineering team.
+Motivated Software Engineering graduate with expertise in developing full-stack applications, integrating DevOps and DevSecOps workflows, and deploying it on hosting platforms. Committed to shift-left security and modern CI/CD practices to deliver fast, secure, and reliable software across the entire development lifecycle. Ready to bring strong technical foundations and a security-first mindset to a dynamic engineering team.
 
 - 🔭 I’m currently working on **DevSecOps automation and Microservices orchestration**.
 - 🏆 **Hackathon Winner:** Secured **1st Position** in Pakathon VieroMind 2025 (24-hour coding competition).
@@ -22,24 +22,17 @@ Motivated Software Engineering graduate with expertise in developing full-stack 
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Skills
 
-**DevOps & Security**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,flask,mongodb,django,postgres,tailwind,bash,docker,githubactions,git" />
 </p>
 <p>
-  <b>CI/CD & Automation</b> Docker, GitHub Actions, Husky <br>
-  <b>Application Security (DevSecOps):</b> SonarQube, OWASP ZAP, Jake, Snyk <br>
-</p>
-
-**Full Stack Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,flask,mongodb,django,postgres,tailwind,bash" />
-</p>
-<p>
+  <b>Frontend:</b> React.js, Tailwind CSS, HTML/CSS <br>
+  <b>Backend:</b> Node.js, Express.js, Flask, Django <br>
+  <b>CI/CD & Automation:</b> Docker, GitHub Actions, Husky <br>
+  <b>Application Security:</b> SonarQube, OWASP ZAP, Jake, Snyk <br>
   <b>Languages:</b> Python, JavaScript, TypeScript, Bash <br>
-  <b>Frameworks:</b> React.js, Express.js, Flask, Tailwind CSS <br>
   <b>Databases:</b> PostgreSQL, MongoDB
 </p>
 
@@ -49,10 +42,10 @@ Motivated Software Engineering graduate with expertise in developing full-stack 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **DevOps Capstone Project** | A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and a comprehensive testing strategy. | Docker, K8s, OpenShift, CI/CD |
-| **Therapist Finder** 🏆 | **1st Place Winner (Pakathon 2025).** A full-stack app connecting patients with mental health professionals. Designed and deployed in 24 hours. | React, Node.js, PostgreSQL, Vercel/Railway |
-| **ProjectFolio** | A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure workflows. | MongoDB, Express, React, Node, Stripe |
 | **AI Real Estate Advisor** | An FYP leveraging Machine Learning to predict property prices and provide investment insights in Pakistan. | Python, Flask, Scikit-learn, Pandas |
+| **ProjectFolio** | A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure workflows. | MongoDB, Express, React, Node, Stripe |
+| **Therapist Finder** 🏆 | **1st Place Winner (Pakathon 2025).** A full-stack app connecting patients with mental health professionals. Designed and deployed in 24 hours. | React, Node.js, PostgreSQL, Vercel/Railway |
+| **DevOps Capstone Project** | A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and a comprehensive testing strategy. | Docker, K8s, OpenShift, CI/CD |
 
 ---
 
