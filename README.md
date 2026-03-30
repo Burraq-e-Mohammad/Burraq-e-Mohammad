@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
-<h3 align="center">🚀 Software Engineer | Full Stack Developer</h3>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer | DevSecOps Practices | Agile Practitioner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burraq-e-mohammad">
