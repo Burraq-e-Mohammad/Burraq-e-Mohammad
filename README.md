@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
-<h3 align="center">🚀 Software Engineer | DevSecOps | Full Stack Developer | Agile Practitioner</h3>
+<h3 align="center">🚀 Software Engineer | DevSecOps | AWS | Full Stack Developer | Agile Practitioner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burraq-e-mohammad">
@@ -18,7 +18,7 @@ Motivated Software Engineering graduate with expertise in developing full-stack 
 
 - 🔭 I’m currently working on **DevSecOps automation and Microservices orchestration**.
 - 🏆 **Hackathon Winner:** Secured **1st Position** in Pakathon VieroMind 2025 (24-hour coding competition).
-- 🎓 **CGPA:** 3.73.
+- 🎓 **CGPA:** 3.73. (Gold Medalist)
 
 ---
 
