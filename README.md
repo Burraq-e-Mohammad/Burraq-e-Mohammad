@@ -1,34 +1,45 @@
 <div align="center">
+  <!-- Dynamic Futuristic Header with Waving Animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Burraq%20E%20Mohammad&fontSize=70&fontAlignY=35&desc=Gold%20Medalist%20%7C%20DevSecOps%20%7C%20Full-Stack%20%7C%20AI&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
   
+  <!-- Cyberpunk Typing Effect (Orbitron Font) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Secure+Cloud+Infrastructures;Building+Scalable+Full-Stack+Applications;Integrating+AI+in+CI%2FCD+Pipelines;Winning+Hackathons+(1st+Place+Pakathon+2025)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Architecting+Secure+Cloud+Infrastructures;Building+Scalable+Full-Stack+Applications;Integrating+AI+in+CI%2FCD+Pipelines;Winning+Hackathons+(1st+Place+Pakathon+2025)" alt="Typing SVG" />
   </a>
   
   <br><br>
-  <a href="https://www.linkedin.com/in/burraq-e-mohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:burraqemohammad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://burraqemohammad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  
+  <!-- Glowing Social Badges -->
+  <a href="https://www.linkedin.com/in/burraq-e-mohammad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:burraqemohammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://burraqemohammad-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
 ### 👨‍💻 About Me
 
-<div>
-  <!-- Awesome 3D Cyberpunk / Matrix Hologram (Replaced the cat!) -->
-  <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jIGn6g/giphy.gif" width="220" alt="Futuristic Tech Globe" style="border-radius: 10px;" />
+<div align="center">
+  <!-- 3D Animated Cartoon Character Coding! -->
+  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="3D Cartoon Coder" />
   
-  <p>
+  <p align="left">
     Motivated <b>Software Engineering graduate (Gold Medalist, 3.73 CGPA)</b> with expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and deploying on cloud platforms.
   </p>
-  <p>
+  <p align="left">
     Committed to <b>shift-left security</b>, modern CI/CD practices, and delivering fast, secure, and reliable software. Proven ability to thrive in fast-paced environments, evidenced by winning <b>1st Place at Pakathon VieroMind 2025</b> (24-hour hackathon).
   </p>
-  <ul>
+  <ul align="left">
     <li>🔭 I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
     <li>🌱 Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
     <li>💬 Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
@@ -101,45 +112,51 @@
 
 > 🤖 **Self-Healing AI CI/CD Pipeline**  
 > Architected an autonomous pipeline to intercept build failures, analyze step logs for root-cause using AI, and automatically push syntax-accurate code remediations.  
-> *n8n, GitHub Actions, OpenAI*
+> `n8n` `GitHub Actions` `OpenAI`
 
 > 🏆 **Therapist Finder** *(1st Place Winner)*  
 > A full-stack app connecting patients with mental health professionals. Designed, developed, and deployed within 24 hours at Pakathon 2025.  
-> *React, Node.js, PostgreSQL, Prisma*
+> `React` `Node.js` `PostgreSQL` `Prisma`
 
 > 🐳 **DevOps Capstone (Microservices)**  
 > A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and highly available Kubernetes deployments.  
-> *Docker, K8s, Jenkins, OpenShift*
+> `Docker` `Kubernetes` `Jenkins` `OpenShift`
 
 > 🏢 **AI Real Estate Advisor**  
 > Leveraged Machine Learning to predict property prices in Pakistan. Scraped data and deployed a web portal for investment ROI analysis.  
-> *React, Flask, Scikit-learn*
+> `React` `Flask` `Scikit-learn`
 
 > 🛒 **ProjectFolio**  
 > A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure and streamlined workflows.  
-> *MongoDB, Express, React, Stripe*
+> `MongoDB` `Express` `React` `Stripe`
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 📜 Professional Experience & Certifications
+### 📜 Professional Experience 
 
-<div align="center">
-  <img align="right" src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=flat&logo=ibm&logoColor=white" style="margin-bottom: 5px;"/><br>
-  <img align="right" src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat&logo=amazon-aws&logoColor=white" style="margin-bottom: 5px;"/><br>
-  <img align="right" src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" style="margin-bottom: 5px;"/><br>
-  <img align="right" src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=flat&logo=google&logoColor=white" style="margin-bottom: 5px;"/><br>
-  <img align="right" src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=flat&logo=linux-foundation&logoColor=white" style="margin-bottom: 5px;"/>
-  
-  <p align="left">
-    🛡️ **DevSecOps Engineer** @ VieroMind<br>
-    <i>Implemented CI/CD pipelines with automated testing, linting, and security scanning.</i><br><br>
-    💻 **DevSecOps & Full Stack Intern** @ Emumba<br>
-    <i>Gained hands-on experience in real-world infrastructure development projects and agile workflows.</i>
-  </p>
-</div>
-<br clear="both">
+<blockquote>
+  <p>🛡️ <b>DevSecOps Engineer @ VieroMind</b><br>
+  <i>Implemented CI/CD pipelines with automated testing, linting, and security scanning.</i></p>
+</blockquote>
+
+<blockquote>
+  <p>💻 <b>DevSecOps & Full Stack Intern @ Emumba</b><br>
+  <i>Gained hands-on experience in real-world infrastructure development projects and agile workflows.</i></p>
+</blockquote>
+
+<br>
+
+### 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=for-the-badge&logo=linux-foundation&logoColor=white" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
@@ -148,7 +165,6 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Changed to a reliable mirror / alternative stats card in case the main one is rate-limited -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
