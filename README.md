@@ -1,12 +1,20 @@
-<h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
-<h3 align="center">🚀 Software Engineer | DevSecOps | AWS | Full Stack Developer | Agile Practitioner</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=052FAD&height=200&section=header&text=Burraq%20E%20Mohammad&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=052FAD&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer;Founder+%26+CEO+@+BurraqBolt+Solutions;Cloud+Architecture+%26+Automation;Software+Engineering+Gold+Medalist" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burraq-e-mohammad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-052FAD?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:burraqemohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://burraqemohammad-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -14,93 +22,65 @@
 
 ### 👨‍💻 About Me
 
-Motivated Software Engineering graduate with expertise in developing full-stack applications, integrating DevOps and DevSecOps workflows, and deploying it on hosting platforms. Committed to shift-left security and modern CI/CD practices to deliver fast, secure, and reliable software across the entire development lifecycle. Ready to bring strong technical foundations and a security-first mindset to a dynamic engineering team.
+Motivated DevSecOps Engineer and Software Engineering graduate with a proven track record in automating infrastructure, orchestrating microservices, and implementing shift-left security practices[cite: 1, 2]. As the Founder and CEO of BurraqBolt Solutions, I drive technological strategy and architectural decisions. I am committed to modern CI/CD pipelines to deliver fast, secure, and highly available software across the entire development lifecycle[cite: 2]. 
 
-- 🔭 I’m currently working on **DevSecOps automation and Microservices orchestration**.
-- 🏆 **Hackathon Winner:** Secured **1st Position** in Pakathon VieroMind 2025 (24-hour coding competition).
-- 🎓 **CGPA:** 3.73. (Gold Medalist)
-
----
-
-### 🛠️ Technical Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,flask,mongodb,django,postgres,tailwind,bash,docker,githubactions,git" />
-</p>
-<p>
-  <b>Frontend:</b> React.js, Tailwind CSS, HTML/CSS <br>
-  <b>Backend:</b> Node.js, Express.js, Flask, Django <br>
-  <b>CI/CD & Automation:</b> Docker, GitHub Actions, Husky <br>
-  <b>Application Security:</b> SonarQube, OWASP ZAP, Jake, Snyk <br>
-  <b>Languages:</b> Python, JavaScript, TypeScript, Bash <br>
-  <b>Databases:</b> PostgreSQL, MongoDB
-</p>
+- 🔭 I’m currently focused on **Cloud Infrastructure, Kubernetes Orchestration, and Autonomous CI/CD Pipelines**[cite: 1].
+- 🏆 **Hackathon Winner:** Secured **1st Position** in Pakathon VieroMind 2025 (24-hour coding competition)[cite: 1, 2].
+- 🎓 **Education:** B.S. Software Engineering, Iqra University[cite: 1, 2]. Graduated with a **3.73 CGPA (Gold Medalist)**, achieving a perfect 4.0 in my 4th, 5th, and 8th semesters[cite: 1, 2].
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Technical Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,githubactions,linux,bash,python,ts,nodejs,express,django,flask,postgres,mongodb,react,nginx&perline=9" />
+</p>
+
+- **Cloud & Orchestration:** AWS (EC2, S3, Lambda, VPC, DynamoDB), Kubernetes, Helm, Docker[cite: 1].
+- **Infrastructure as Code & Config:** Terraform, Ansible, NGINX[cite: 1].
+- **CI/CD & Observability:** GitHub Actions, Jenkins, Prometheus, Grafana[cite: 1].
+- **Security:** SonarQube, OWASP ZAP, Snyk[cite: 2].
+- **Backend Frameworks:** Node.js, Express.js, Flask, Django[cite: 1, 2].
+- **Databases:** PostgreSQL, MongoDB, Redis[cite: 1, 2].
+
+---
+
+### 📂 Featured DevSecOps & Architecture Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **AI Real Estate Advisor** | An FYP leveraging Machine Learning to predict property prices and provide investment insights in Pakistan. | Python, Flask, Scikit-learn, Pandas |
-| **ProjectFolio** | A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure workflows. | MongoDB, Express, React, Node, Stripe |
-| **Therapist Finder** 🏆 | **1st Place Winner (Pakathon 2025).** A full-stack app connecting patients with mental health professionals. Designed and deployed in 24 hours. | React, Node.js, PostgreSQL, Vercel/Railway |
-| **DevOps Capstone Project** | A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and a comprehensive testing strategy. | Docker, K8s, OpenShift, CI/CD |
+| **Self-Healing AI CI/CD Pipeline** | Architected an autonomous pipeline to intercept build failures, analyze logs, and automatically push syntax-accurate code remediations via clean PRs, reducing MTTR to under 10 minutes[cite: 1]. | n8n, GitHub Actions, OpenAI (GPT-4o-mini)[cite: 1] |
+| **Jenkins Docker CI/CD Pipeline** | Engineered an automated pipeline deploying code from a GitHub push to a live AWS EC2 production environment in under 30 seconds, using multi-stage builds[cite: 1]. | Jenkins, Docker, AWS EC2, NestJS[cite: 1] |
+| **Multi-Environment AWS Infrastructure** | Architected a highly available VPC across 3 AZs using remote state, locking, and modular environments[cite: 1]. | Terraform, AWS (S3, DynamoDB)[cite: 1] |
+| **Kubernetes Microservices** | Orchestrated a multi-tier cluster utilizing Deployments, Services, Config Maps, Secrets, and persistent storage[cite: 1]. | Kubernetes, Helm, Node.js, Redis[cite: 1] |
+| **ProjectFolio** | Developed a comprehensive full-stack project marketplace featuring secure Google OAuth authentication, structured payment workflows, and admin management tools[cite: 2]. | React.js, Node.js, Express.js, MongoDB, Stripe[cite: 2] |
 
 ---
 
-### 📜 Certifications
+### 💼 Professional Experience
 
-<p>
-  <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=flat&logo=ibm&logoColor=white" />
-  <br>
-  • <b>IBM DevOps and Software Engineering Professional Certificate</b> (Dec 2025)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>AWS Cloud Practitioner Essentials</b> (In Progress)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>Getting Started with DevOps on AWS</b> (July 2025)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Generative_AI-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>Introduction to Generative AI - Art of the Possible</b> (July 2025)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=flat&logo=google&logoColor=white" />
-  <br>
-  • <b>Google Agile Project Management</b> (June 2025)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google-Front--End_Bootcamp-4285F4?style=flat&logo=google&logoColor=white" />
-  <br>
-  • <b>Google Developer Students Club Bootcamp</b> (April 2024)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=flat&logo=linux-foundation&logoColor=white" />
-  <br>
-  • <b>Introduction to FinOps</b> (FinOps Foundation - Dec 2025)
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-F3C757?style=flat&logo=coursera&logoColor=white" />
-  <br>
-  • <b>AI For Everyone</b> (DeepLearning.AI - July 2025)
-</p>
+- **Founder & CEO** @ BurraqBolt Solutions 
+- **DevSecOps Engineer** @ VieroMind *(Dec 2025 - Jan 2026)*: Implemented CI/CD pipelines with automated testing, linting, and security scanning, while authoring code quality documentation[cite: 1].
+- **DevSecOps Intern** @ Emumba *(Jul 2024 - Aug 2024)*: Gained hands-on experience in real-world infrastructure development and scalable software solutions within agile workflows[cite: 1].
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <i>Let's connect and build secure, scalable solutions together!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=transparent&hide_border=true&title_color=052FAD&icon_color=052FAD" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=transparent&hide_border=true&title_color=052FAD&icon_color=052FAD&ring=052FAD" width="48%" />
+</p>
+
+---
+
+### 📜 Key Certifications
+
+- 🏅 **IBM DevOps and Software Engineering Professional Certificate** *(Dec 2025)*[cite: 1, 2]
+- 🏅 **Introduction to FinOps** - FinOps Foundation *(Dec 2025)*[cite: 2]
+- 🏅 **Getting Started with DevOps on AWS** *(July 2025)*[cite: 1, 2]
+- 🏅 **Agile Project Management** - Google *(June 2025)*[cite: 2]
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=052FAD&height=100&section=footer" />
 </p>
