@@ -27,11 +27,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> About Me
 
 <div align="center">
-  <!-- 3D Animated Cartoon Character Coding! -->
-  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="3D Cartoon Coder" />
+  <!-- Fixed: Bulletproof 3D Animated Waving Alien/Robot -->
+  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="3D Waving Character" />
   
   <p align="left">
     Motivated <b>Software Engineering graduate (Gold Medalist, 3.73 CGPA)</b> with expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and deploying on cloud platforms.
@@ -40,9 +40,9 @@
     Committed to <b>shift-left security</b>, modern CI/CD practices, and delivering fast, secure, and reliable software. Proven ability to thrive in fast-paced environments, evidenced by winning <b>1st Place at Pakathon VieroMind 2025</b> (24-hour hackathon).
   </p>
   <ul align="left">
-    <li>🔭 I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
-    <li>🌱 Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
-    <li>💬 Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20"/> Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
   </ul>
 </div>
 
@@ -52,7 +52,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 🛠️ Technical Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="25" /> Technical Arsenal
 
 <p align="center">
   <b>☁️ Cloud & CI/CD</b><br><br>
@@ -108,25 +108,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> Featured Projects
 
-> 🤖 **Self-Healing AI CI/CD Pipeline**  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> **Self-Healing AI CI/CD Pipeline**  
 > Architected an autonomous pipeline to intercept build failures, analyze step logs for root-cause using AI, and automatically push syntax-accurate code remediations.  
 > `n8n` `GitHub Actions` `OpenAI`
 
-> 🏆 **Therapist Finder** *(1st Place Winner)*  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="20" /> **Therapist Finder** *(1st Place Winner)*  
 > A full-stack app connecting patients with mental health professionals. Designed, developed, and deployed within 24 hours at Pakathon 2025.  
 > `React` `Node.js` `PostgreSQL` `Prisma`
 
-> 🐳 **DevOps Capstone (Microservices)**  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> **DevOps Capstone (Microservices)**  
 > A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and highly available Kubernetes deployments.  
 > `Docker` `Kubernetes` `Jenkins` `OpenShift`
 
-> 🏢 **AI Real Estate Advisor**  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20" /> **AI Real Estate Advisor**  
 > Leveraged Machine Learning to predict property prices in Pakistan. Scraped data and deployed a web portal for investment ROI analysis.  
 > `React` `Flask` `Scikit-learn`
 
-> 🛒 **ProjectFolio**  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="20" /> **ProjectFolio**  
 > A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure and streamlined workflows.  
 > `MongoDB` `Express` `React` `Stripe`
 
@@ -134,21 +134,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 📜 Professional Experience 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Professional Experience 
 
 <blockquote>
-  <p>🛡️ <b>DevSecOps Engineer @ VieroMind</b><br>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> <b>DevSecOps Engineer @ VieroMind</b><br>
   <i>Implemented CI/CD pipelines with automated testing, linting, and security scanning.</i></p>
 </blockquote>
 
 <blockquote>
-  <p>💻 <b>DevSecOps & Full Stack Intern @ Emumba</b><br>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> <b>DevSecOps & Full Stack Intern @ Emumba</b><br>
   <i>Gained hands-on experience in real-world infrastructure development projects and agile workflows.</i></p>
 </blockquote>
 
 <br>
 
-### 🏆 Certifications
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" width="25" /> Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -162,7 +162,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
 </div>
 
-### 📊 GitHub Activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
