@@ -1,144 +1,113 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00E676&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Burraq+E+Mohammad+👋;DevSecOps+Engineer+|+Software+Engineer;Welcome+to+my+Futuristic+Workspace" alt="Typing SVG" />
-</div>
-
-<h3 align="center">Gold Medalist 🥇 | Software Engineer | DevSecOps Engineer | AWS | Full-Stack Developer | AI | Agile Practitioner[cite: 1, 2]</h3>
+<h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
+<h3 align="center">Gold Medalist 🥇 | B.S. Software Engineering (CGPA 3.73) | Full-Stack & DevOps Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/burraq-e-mohammad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00E676?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:burraqemohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=00E676" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/Burraq-e-Mohammad">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://burraqemohammad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00E676?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </p>
 
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="3D Futuristic Display Animation" />
-
-### 👨‍💻 System Overview: About Me
-
-Motivated Software Engineering graduate (Gold Medalist, 3.73 CGPA)[cite: 1, 2]. I possess extensive expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and executing deployments on modern hosting platforms[cite: 2]. I am deeply committed to shift-left security and modern CI/CD practices to deliver fast, secure, and reliable software across the entire development lifecycle[cite: 2].
-
-- 🔭 **Current Focus:** Real-world infrastructure development, shift-left security, and secure coding practices[cite: 1, 2].
-- 🏢 **Professional Experience:** DevSecOps Engineer at VieroMind (Remote) and former DevSecOps / Full Stack Intern at Emumba (Onsite)[cite: 1, 2].
-- 🏆 **Hackathon Champion:** Secured **1st Position** in the Pakathon VieroMind 2025 (24-hour coding competition) and **2nd Position** in the BrainByte Tech Competition[cite: 1, 2].
-- 🎓 **Academics:** B.S. Software Engineering from Iqra University with a perfect 4.0 GPA in the 4th, 5th, and 8th semesters[cite: 1, 2].
-
-<br clear="all">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d-futuristic-header.gif" width="800" alt="Futuristic Header Animation" />
+</div>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,python,js,ts,bash,react,nextjs,nodejs,express,flask,django,postgres,mongodb,tailwind&theme=dark" />
-</p>
+Motivated Software Engineering graduate with expertise in developing **full-stack web applications**, integrating **DevSecOps workflows**, and deploying on hosting platforms. Committed to shift-left security and modern **CI/CD** practices to deliver fast, secure, and reliable software across the entire development lifecycle. Ready to bring strong technical foundations and a security-first mindset to a dynamic engineering team.
 
-*   **Cloud, CI/CD & Automation:** AWS (Lambda, EC2, S3, DynamoDB, VPC), Terraform, Ansible, GitHub Actions, Jenkins, Docker, Kubernetes, Helm, NGINX[cite: 1].
-*   **Application Security:** SonarQube, OWASP ZAP, Jake, Snyk[cite: 2].
-*   **Backend & Databases:** Node.js, Express.js, Flask, Django, PostgreSQL, MongoDB, Redis[cite: 1, 2].
-*   **Frontend & Languages:** Python, TypeScript, JavaScript, Bash, Next.js, React.js, Tailwind CSS, HTML/CSS[cite: 1, 2].
+- 🔭 Currently focused on **DevOps automation**, **microservices orchestration**, and **cloud infrastructure**.
+- 🏆 **Hackathon Winner**: 1st Position — Pakathon VieroMind 2025 (24-hour hackathon).
+- 🎓 **Academic Excellence**: Perfect 4.0/4.0 GPA in 4th, 5th, and 8th semesters. Gold Medalist (CGPA 3.73).
 
 ---
 
-### 📂 Featured Architectures & Projects
+### 🛠️ Technical Skills
 
-<table align="center" width="100%" style="border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr style="background-color: #111; color: #00E676;">
-      <th width="30%">🚀 Mission / System</th>
-      <th width="45%">📝 Technical Log</th>
-      <th width="25%">⚙️ Tech Core</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Self-Healing AI CI/CD Pipeline</b><br><em>[cite: 1]</em></td>
-      <td>Architected an autonomous pipeline to instantly intercept build failures, analyze step logs for root-cause, and push syntax-accurate code remediations via clean PRs, reducing MTTR to under 10 minutes. <em>[cite: 1]</em></td>
-      <td><code>n8n</code>, <code>GitHub Actions</code>, <code>OpenAI (GPT-4o-mini)</code> <em>[cite: 1]</em></td>
-    </tr>
-    <tr>
-      <td><b>Jenkins Docker CI/CD Pipeline</b><br><em>[cite: 1]</em></td>
-      <td>Engineered an end-to-end automated pipeline moving code from GitHub push to live AWS EC2 production in under 30 seconds with real-time email notifications. <em>[cite: 1]</em></td>
-      <td><code>Jenkins</code>, <code>Docker</code>, <code>AWS EC2</code>, <code>NestJS</code> <em>[cite: 1]</em></td>
-    </tr>
-    <tr>
-      <td><b>Kubernetes Microservices</b><br><em>[cite: 1]</em></td>
-      <td>Orchestrated a multi-tier cluster in a dedicated namespace with Deployments, Services, Config Maps, Secrets, and persistent storage. <em>[cite: 1]</em></td>
-      <td><code>Kubernetes</code>, <code>Helm</code>, <code>Node.js</code>, <code>Redis</code> <em>[cite: 1]</em></td>
-    </tr>
-    <tr>
-      <td><b>AI-Powered Real Estate Advisor</b><br><em>[cite: 2]</em></td>
-      <td>Full-stack application using machine learning models (Random Forest, LightGBM, XGBoost) to predict property prices and provide investment insights in Pakistan. <em>[cite: 2]</em></td>
-      <td><code>Python</code>, <code>Flask</code>, <code>Scikit-learn</code>, <code>React.js</code>, <code>PostgreSQL</code> <em>[cite: 2]</em></td>
-    </tr>
-    <tr>
-      <td><b>ProjectFolio</b><br><em>[cite: 2]</em></td>
-      <td>A full-stack project marketplace with Google OAuth, Stripe payment integration, Cloudinary, and Tawk.to live chat. <em>[cite: 2]</em></td>
-      <td><code>MongoDB</code>, <code>Express.js</code>, <code>React.js</code>, <code>Node.js</code>, <code>Tailwind</code> <em>[cite: 2]</em></td>
-    </tr>
-    <tr>
-      <td><b>Therapist Finder</b> 🏆<br><em>[cite: 2]</em></td>
-      <td><b>1st Place Winner (Pakathon 2025).</b> Developed and deployed a full-stack mental health platform with advanced filtering and a secure backend API in 24 hours. <em>[cite: 2]</em></td>
-      <td><code>React</code>, <code>TypeScript</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Prisma ORM</code> <em>[cite: 2]</em></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,nginx,nodejs,express,react,nextjs,flask,django,python,typescript,javascript,postgres,mongodb,redis,tailwind,bash" alt="Skills" />
+</div>
+
+**Cloud, CI/CD**: AWS (Lambda, EC2, S3, DynamoDB, VPC), Terraform, Ansible, GitHub Actions, Jenkins, Docker, Kubernetes, Helm, NGINX  
+**Backend & Databases**: Node.js, Express.js, Flask, Django, PostgreSQL, MongoDB, Redis  
+**Frontend & Languages**: Python, TypeScript, JavaScript, Bash, Next.js, React.js, Tailwind CSS  
 
 ---
 
-### 📜 Certifications & Credentials
+### 📂 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <br>
-  • <b>IBM DevOps and Software Engineering Professional Certificate</b> (Dec 2025)[cite: 1, 2]
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>Getting Started with DevOps on AWS</b> (July 2025)[cite: 1, 2]
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Ansible NGINX Automation on AWS** | Automated provisioning and configuration using Roles, Jinja2 templates, Vault (AES-256), and tagged tasks. | Ansible, EC2, NGINX |
+| **Serverless Job Portal** | Event-driven application with secure resume handling and scalable serverless architecture. | AWS Lambda, DynamoDB, S3, Next.js |
+| **Multi-Environment AWS Infrastructure** | Highly available VPC across 3 AZs using Terraform Workspaces, Modules, remote state, and locking. | Terraform, AWS |
+| **Jenkins Docker CI/CD Pipeline** | End-to-end automated pipeline from GitHub push to production on AWS EC2 in under 30 seconds with email notifications. | Jenkins, Docker, AWS EC2, NestJS |
+| **Kubernetes Microservices** | Multi-tier cluster in dedicated namespace with Deployments, Services, ConfigMaps, Secrets, and persistent storage. | Kubernetes, Helm, Node.js, Redis |
+| **Prometheus & Grafana Observability** | Real-time monitoring and alerting for Node.js backend with custom metrics and email notifications. | Prometheus, Grafana, Node.js |
+| **Self-Healing AI CI/CD Pipeline** | Autonomous pipeline that intercepts build failures, analyzes logs, and pushes code remediations via PRs (MTTR < 10 mins). | n8n, GitHub Actions, OpenAI (GPT-4o-mini) |
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>AWS Cloud Practitioner Essentials</b> (In Progress)[cite: 2]
-</p>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Generative_AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br>
-  • <b>Introduction to Generative AI - Art of the Possible</b> (July 2025)[cite: 2]
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=for-the-badge&logo=linux-foundation&logoColor=white" />
-  <br>
-  • <b>Introduction to FinOps</b> (FinOps Foundation - Dec 2025)[cite: 2]
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <br>
-  • <b>Agile Project Management</b> (June 2025)[cite: 2]<br>
-  • <b>Google Developer Students Club Bootcamp</b> (April 2024)[cite: 2]
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DeepLearning.AI-AI_For_Everyone-F3C757?style=for-the-badge&logo=coursera&logoColor=white" />
-  <br>
-  • <b>AI For Everyone</b> (DeepLearning.AI - July 2025)[cite: 2]
-</p>
+**Additional Web Projects** (from portfolio-focused resume):
+- **AI-Powered Real Estate Investment Advisor (FYP)**: ML-based price prediction and investment insights.
+- **ProjectFolio – MERN Application**: Project marketplace with OAuth, Stripe, admin dashboard, and live chat.
+- **Therapist Finder** 🏆: Full-stack mental health professional discovery app (built in 24 hours).
+- **Budget Tracker**: Personal finance management with JWT auth and expense analytics.
 
 ---
 
-<p align="center">
-  <i>Let's connect and build secure, scalable solutions together!</i>
-</p>
+### 💼 Professional Experience
+
+**DevSecOps Intern (Full Time)** — Emumba (Onsite)  
+*Islamabad, Pakistan | July 2024 – August 2024*  
+- Gained hands-on experience in real-world infrastructure development projects and agile workflows.  
+- Collaborated with cross-functional teams to deliver scalable software solutions.
+
+**DevSecOps Engineer (Short-Term Engagement)** — VieroMind (Remote)  
+*Islamabad, Pakistan | December 2025 – January 2026*  
+- Implemented CI/CD pipelines with automated testing, linting, and security scanning.  
+- Enhanced DevSecOps practices and authored documentation for code quality standards.
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM-DevOps_%26_Software_Engineering-052FAD?style=flat&logo=ibm&logoColor=white)  
+**IBM DevOps and Software Engineering Professional Certification** (Dec 2025)
+
+![AWS](https://img.shields.io/badge/AWS-Getting_Started_with_DevOps-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+**Getting Started with DevOps on AWS** (July 2025)
+
+![AWS](https://img.shields.io/badge/AWS-Generative_AI-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+**Introduction to Generative AI - Art of the Possible** (July 2025)
+
+![Google](https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=flat&logo=google&logoColor=white)  
+**Agile Project Management** (June 2025)
+
+And more: AWS Cloud Practitioner Essentials (In Progress), FinOps, AI For Everyone, etc.
+
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's connect and build secure, scalable, futuristic solutions together! 🚀</h3>
+  
+  <img src="https://github.com/user-attachments/assets/futuristic-roaming-character.gif" width="400" alt="3D Cartoon Character Animation" />
+  
+  <p><em>Dynamic 3D elements and animations powered by GitHub README capabilities.</em></p>
+</div>
