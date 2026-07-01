@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Futuristic Header with Waving Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Burraq%20E%20Mohammad&fontSize=70&fontAlignY=35&desc=Gold%20Medalist%20%7C%20DevSecOps%20%7C%20Full-Stack%20%7C%20AI&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077be&height=250&section=header&text=Burraq%20E%20Mohammad&fontSize=70&fontAlignY=35&desc=Gold%20Medalist%F0%9F%A5%87%20%7C%20Software%20Engineer%20%7C%20DevOps%20%7C%20AWS%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%7C%20N8N%20%7C%20Agile%20Practitioner&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
   
   <!-- Cyberpunk Typing Effect (Orbitron Font) -->
   <a href="https://git.io/typing-svg">
@@ -41,7 +41,7 @@
   </p>
   <ul align="left">
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20"/> Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
   </ul>
 </div>
@@ -174,5 +174,5 @@
   <i>Let's connect and build secure, scalable solutions together!</i>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077be&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
