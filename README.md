@@ -142,7 +142,7 @@
 </blockquote>
 
 <blockquote>
-  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> <b>DevSecOps & Full Stack Intern @ Emumba</b><br>
+  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20" /> <b>Full Stack Intern @ Emumba</b><br>
   <i>Gained hands-on experience in real-world infrastructure development projects and agile workflows.</i></p>
 </blockquote>
 
