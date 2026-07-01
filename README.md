@@ -1,118 +1,202 @@
-<h1 align="center">Hi there, I'm Burraq E Mohammad 👋</h1>
-
+<!-- Futuristic Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=800&lines=Gold+Medalist+%F0%9F%A5%87;Software+Engineer+%7C+DevSecOps+Engineer;Full-Stack+Developer+%7C+AWS+Cloud+Practitioner;Building+Secure%2C+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
+  
+  <h1>Hi there, I'm Burraq E Mohammad 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Software+Engineer;DevSecOps+Engineer;Full-Stack+Developer;AI+%26+Cloud+Enthusiast;Gold+Medalist+%F0%9F%A5%87" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+  <a href="https://www.linkedin.com/in/burraq-e-mohammad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:burraqemohammad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://burraqemohammad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
+<br>
+
+<!-- About Me with 3D Character -->
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="30%" align="center" style="border: none;">
+      <!-- Cool 3D Floating Astronaut / Tech GIF -->
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="3D coding cartoon" />
+    </td>
+    <td width="70%" style="border: none;">
+      <h3>👨‍💻 About Me</h3>
+      <p>Motivated <b>Software Engineering graduate (Gold Medalist, 3.73 CGPA)</b> with expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and deploying on cloud platforms.</p>
+      <p>Committed to <b>shift-left security</b>, modern CI/CD practices, and delivering fast, secure, and reliable software. Proven ability to thrive in fast-paced environments, evidenced by winning <b>1st Place at Pakathon VieroMind 2025</b> (24-hour hackathon).</p>
+      <ul>
+        <li>🔭 I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
+        <li>🌱 Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
+        <li>💬 Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
+</div>
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200"><b>☁️ Cloud & CI/CD</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🛡️ Security & Observability</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" />
+        <img src="https://img.shields.io/badge/OWASP%20ZAP-%23348EA9.svg?style=for-the-badge&logo=owasp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>💻 Frontend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚙️ Backend</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🗄️ Databases</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🛠️ Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
+</div>
+
+### 🚀 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">🏆</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/9924/9924151.png" width="40"/></td>
+      <td><b>Self-Healing AI CI/CD Pipeline</b></td>
+      <td>Architected an autonomous pipeline to intercept build failures, analyze step logs for root-cause using AI, and automatically push syntax-accurate code remediations.</td>
+      <td>n8n, GitHub Actions, OpenAI</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2920/2920323.png" width="40"/></td>
+      <td><b>Therapist Finder</b> <br> <i>(1st Place Winner)</i></td>
+      <td>A full-stack app connecting patients with mental health professionals. Designed, developed, and deployed within 24 hours at Pakathon 2025.</td>
+      <td>React, Node.js, PostgreSQL, Prisma</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/2910/2910791.png" width="40"/></td>
+      <td><b>DevOps Capstone (Microservices)</b></td>
+      <td>A microservices-based app orchestrated with containers and serverless functions. Features automated CI/CD pipelines and highly available Kubernetes deployments.</td>
+      <td>Docker, K8s, Jenkins, OpenShift</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/3135/3135679.png" width="40"/></td>
+      <td><b>AI Real Estate Advisor</b></td>
+      <td>Leveraged Machine Learning to predict property prices in Pakistan. Scraped data and deployed a web portal for investment ROI analysis.</td>
+      <td>React, Flask, Scikit-learn</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/1006/1006363.png" width="40"/></td>
+      <td><b>ProjectFolio</b></td>
+      <td>A MERN stack project marketplace with Google OAuth and Stripe payment integration for secure and streamlined workflows.</td>
+      <td>MongoDB, Express, React, Stripe</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
+</div>
+
+### 📜 Professional Experience & Certifications
+
+<table width="100%" style="border: none;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
+  
+#### 💼 Experience
+- 🛡️ **DevSecOps Engineer** @ VieroMind
+  - Implemented CI/CD pipelines with automated testing, linting, and security scanning.
+- 💻 **DevSecOps & Full Stack Intern** @ Emumba
+  - Gained hands-on experience in real-world infrastructure development projects and agile workflows.
+
+</td>
+<td width="50%" valign="top" style="border: none;">
+
+#### 🏆 Certifications
+- <img src="https://img.shields.io/badge/IBM-DevOps_&_Software_Engineering-052FAD?style=flat&logo=ibm&logoColor=white" />
+- <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+- <img src="https://img.shields.io/badge/AWS-DevOps_On_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+- <img src="https://img.shields.io/badge/Google-Agile_Project_Management-4285F4?style=flat&logo=google&logoColor=white" />
+- <img src="https://img.shields.io/badge/FinOps-Introduction_to_FinOps-00C7B7?style=flat&logo=linux-foundation&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider">
+</div>
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/burraq-e-mohammad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Burraq-e-Mohammad">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:burraqemohammad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://burraqemohammad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-  </a>
+  <i>Let's connect and build secure, scalable solutions together!</i>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0e5c8f2a-4b5f-4e2d-9b8a-2f3e8c1d5f2e" width="100%" alt="Futuristic Banner" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 255, 159, 0.5);" />
-</div>
-
-### 👨‍🚀 About Me
-
-**Motivated Software Engineering graduate (Gold Medalist)** with deep expertise in **full-stack development**, **DevSecOps**, **cloud-native architectures**, and **AI-powered automation**. Passionate about **shift-left security**, modern **CI/CD pipelines**, and delivering reliable, scalable systems end-to-end.
-
-- 🔭 Currently building **autonomous DevSecOps pipelines** and **serverless microservices**
-- 🏆 **1st Place** — Pakathon VieroMind 2025 (24-hour hackathon)
-- 🏅 **2nd Place** — BrainByte Tech Competition (among 30 teams)
-- 📈 **CGPA: 3.73/4.0** with multiple perfect 4.0 semesters
-- 🌐 Committed to secure, observable, and intelligent software delivery
-
----
-
-### 🛠️ Skills & Technologies
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,python,nodejs,typescript,react,nextjs,express,flask,django,mongodb,postgres,redis,tailwind,prisma,bash&perline=12" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
-
-**Cloud & DevSecOps**  
-AWS (Lambda, EC2, S3, DynamoDB, VPC) • Terraform • Ansible • Docker • Kubernetes • Helm • Jenkins • GitHub Actions • Prometheus • Grafana • SonarQube • OWASP ZAP • Snyk
-
-**Development**  
-**Frontend**: React.js, Next.js, TypeScript, Tailwind CSS  
-**Backend**: Node.js, Express.js, Flask, Django  
-**Databases**: PostgreSQL, MongoDB, Redis, DynamoDB  
-**AI/ML**: Scikit-learn, Pandas, OpenAI (GPT-4o-mini), n8n automation
-
----
-
-### ✨ Featured Projects
-
-<div align="center">
-
-| Project | Highlights | Tech Stack |
-|---------|----------|------------|
-| **🧠 Self-Healing AI CI/CD Pipeline**<br>(July 2026) | Autonomous pipeline that detects failures, analyzes logs with GPT-4o-mini, and auto-creates fix PRs. Reduced MTTR to <10 mins. | n8n, GitHub Actions, OpenAI, Node.js |
-| **🏠 AI-Powered Real Estate Advisor** (FYP) | ML price prediction + investment insights from zameen.com data. Dynamic visualizations & ROI analysis. | React, Flask, Scikit-learn, XGBoost, PostgreSQL, Chart.js |
-| **🩺 Therapist Finder** 🏆 | **1st Place Hackathon Winner**. Full-stack platform built in 24 hours with advanced filtering. | React + TS, Node.js, PostgreSQL, Prisma, Vercel + Railway |
-| **☁️ Multi-Environment AWS Infrastructure** | Highly available VPC across 3 AZs with remote state & locking. | Terraform, AWS, S3/DynamoDB |
-| **🚀 Jenkins Docker CI/CD Pipeline** | End-to-end pipeline from GitHub push → live on AWS EC2 in <30 seconds. | Jenkins, Docker, NestJS, AWS EC2 |
-| **📊 ProjectFolio** | MERN marketplace with Google OAuth, Stripe payments, admin dashboard & live chat. | MongoDB, Express, React, Node.js, Stripe, Cloudinary, Tailwind |
-
-</div>
-
-**More DevOps Projects**: Ansible NGINX Automation • Serverless Job Portal • Kubernetes Microservices • Prometheus + Grafana Observability
-
----
-
-### 🎖️ Certifications
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px;">
-
-**IBM DevOps and Software Engineering Professional Certificate** (Dec 2025)  
-**AWS Getting Started with DevOps** (July 2025)  
-**Introduction to Generative AI** (AWS, July 2025)  
-**Agile Project Management** (Google, June 2025)  
-**AI For Everyone** (DeepLearning.AI, July 2025)  
-**Introduction to FinOps** (FinOps Foundation, Dec 2025)  
-**AWS Cloud Practitioner Essentials** (In Progress)
-
-</div>
-
----
-
-### 🏆 Achievements
-
-- **Gold Medalist** & multiple 4.0/4.0 semesters at Iqra University
-- 1st Position — **Pakathon VieroMind 2025**
-- 2nd Position — **BrainByte Tech Competition**
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Burraq-e-Mohammad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burraq-e-Mohammad&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=Burraq-e-Mohammad&theme=tokyonight&column=4&margin-w=15" alt="Trophies" />
-</div>
-
----
-
-<p align="center">
-  <i>Let's build the future — secure, intelligent, and scalable.</i><br>
-  <strong>Open to opportunities in Software Engineering, DevSecOps, and Cloud Architecture.</strong>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00FF9F&height=120&section=footer&text=Burraq%20E%20Mohammad&fontSize=30&animation=twinkling" />
-</div>
