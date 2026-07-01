@@ -30,8 +30,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25" /> About Me
 
 <div align="center">
-  <!-- Fixed: Bulletproof 3D Animated Waving Alien/Robot -->
-  <img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="3D Waving Character" />
+  <!-- Fixed: Bulletproof 3D Animated Robot Head -->
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="180" alt="3D Animated Robot" />
   
   <p align="left">
     Motivated <b>Software Engineering graduate (Gold Medalist, 3.73 CGPA)</b> with expertise in developing scalable full-stack web applications, integrating DevSecOps workflows, and deploying on cloud platforms.
@@ -41,7 +41,7 @@
   </p>
   <ul align="left">
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"/> I’m currently working on <b>DevSecOps automation and Microservices orchestration</b>.</li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="20"/> Continuously learning <b>Generative AI, AWS Architecture, and FinOps</b>.</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20"/> Ask me about <b>React, Python, CI/CD, and Application Security</b>.</li>
   </ul>
 </div>
